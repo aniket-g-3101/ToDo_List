@@ -1,4 +1,4 @@
-📝 To-Do List Web App
+📝 To-Do List Web App 
 
 A sleek and responsive To-Do List web application built using **HTML, CSS, and JavaScript**. It allows users to manage daily tasks efficiently with features like task filtering, completion marking, and a light/dark theme toggle.
 
